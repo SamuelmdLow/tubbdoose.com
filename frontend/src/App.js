@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import './branding.css';
+import './branding-tubbdoose.css';
 import axios from "axios";
 import Post from './posts/post'
 import Featured from './featured';
